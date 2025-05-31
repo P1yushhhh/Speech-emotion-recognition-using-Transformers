@@ -90,10 +90,3 @@ This speech emotion recognition system can be applied in various domains:
 - scikit-learn for evaluation metrics
 
 The model demonstrates the effectiveness of combining transformer-based feature extraction with traditional neural network architectures for emotion recognition tasks, achieving state-of-the-art performance on the RAVDESS dataset.
-
-Citations:
-[1] https://pplx-res.cloudinary.com/image/private/user_uploads/58068102/6ec0f4e4-1831-4336-9145-f23858f1d0c6/image.jpg
-[2] https://pplx-res.cloudinary.com/image/private/user_uploads/58068102/20353efc-bcc9-48ea-b48a-901e6cad2339/image.jpg
-
----
-Answer from Perplexity: pplx.ai/share
