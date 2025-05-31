@@ -1,4 +1,3 @@
-# SER using Transformers
 # Speech Emotion Recognition using Wav2Vec2 Transformer
 
 A deep learning project that leverages the power of Wav2Vec2 transformer architecture to recognize emotions from speech audio. This model achieves an impressive **95% accuracy** on the RAVDESS dataset for English language emotion classification.
